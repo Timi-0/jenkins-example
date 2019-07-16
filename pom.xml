@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>http://17.0.9.179:8081/artifactory/libs-release/</url>
+            <url>http://17.0.9.179:8081/artifactory/libs-release-local/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>http://17.0.9.179:8081/artifactory/libs-snapshot/</url>
+            <url>http://17.0.9.179:8081/artifactory/libs-snapshot-local/</url>
         </repository>
     </distributionManagement>
 
