@@ -58,7 +58,7 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>http://17.0.9.179:8081/artifactory/libs-release-local/</url>
+            <url>http://17.0.9.179:8081/artifactory/libs-release/</url>
         </repository>
     </repositories>
 
