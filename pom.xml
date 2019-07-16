@@ -62,11 +62,11 @@
         </repository>
     </repositories>
 
-    <distributionManagement>
+<!--     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
             <url>http://17.0.9.179:8081/artifactory/libs-snapshot-local/</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement> -->
 
 </project>
